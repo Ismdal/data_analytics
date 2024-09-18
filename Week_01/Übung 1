@@ -1,0 +1,38 @@
+//Task 1
+Use Case 1
+1. Problem definition (identify one or more potential problem(s)). - Prices are not foreseeable for rental apartments
+2. Objective (define a clear objective based on the problem definition). - With our price prediction model we want to be able to predict future prices for rental apartments
+3. Research question (formulate a research question based on the objective). - How do we best predict future prices for rental apartments
+4. Hypothesis (formulate a clear hypothesis based on the research question). - Prices for rental apartments depend on the amount of rooms
+5. Expected added value of the data analysis (business value of data analytics). - with the price prediction model we can predict future prices for rental apartments
+
+Use Case 2
+1. Problem Definition - Supermarkets in Swiss municipalities struggle to match supply with consumer demand, leading to overstocking or stockouts
+2. Objective - Build a demand-supply prediction model for supermarkets in Swiss municipalities that can improve inventory management and reduce waste or stockouts by accurately forecasting demand for different products.
+3. Research Question - How can data on customer behavior, historical sales, and local demographics be used to forecast demand for specific supermarket products in Swiss municipalities?
+4. Hypothesis - A predictive model incorporating customer behavior, local demographics, and sales data can significantly improve the accuracy of demand forecasts for supermarkets, reducing both overstocking and stockouts.
+5. Expected Added Value: Enhances inventory management and reduces waste 
+
+
+Task 2
+Use Case 2
+Supermarket Locations:
+Description: Geospatial data on the locations of supermarkets in various Swiss municipalities, including size, type, and category (e.g., discount, premium).
+Source: OpenStreetMap (OSM) data or direct sources from supermarket chains.
+Link: OSM Key: Shop.
+
+Historical Sales Data:
+Description: Historical sales data from supermarkets, providing insights into product demand over time. This would include seasonal variations and patterns in sales.
+Source: Supermarket chains or industry data sources.
+
+Municipality-Level Data:
+Description: Data on population size, age distribution, income levels, and household sizes, which affect supermarket demand.
+Source: Swiss Federal Statistical Office (SFSO) – Regionalporträts 2021: Kennzahlen aller Gemeinden.
+
+Consumer Behavior Data:
+Description: Data on shopping patterns, such as frequency of visits, typical basket size, and preferences for specific products.
+Source: Supermarket loyalty programs, surveys, or external consumer market research firms.
+
+Supply Chain Data:
+Description: Data on the supply logistics for supermarkets, including delivery frequency, product availability, and distribution center proximity.
+Source: Supermarket chain logistics data or third-party supply chain management platforms.
